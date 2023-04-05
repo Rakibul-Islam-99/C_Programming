@@ -1,11 +1,3 @@
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
- It's call Loop
+c
+Language
+Welcome to c
