@@ -7,8 +7,5 @@ int main()
         printf("It's call Loop!\n");
     }
 
-
-
-
     return 0;
 }
