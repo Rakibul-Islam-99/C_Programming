@@ -1,3 +1,0 @@
-c
-Language
-Welcome to c
